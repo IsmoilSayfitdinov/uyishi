@@ -1,0 +1,105 @@
+header{
+    position: relative;
+}
+
+.header_block{
+    position: absolute;
+    top: 29px;
+    left: 363px;
+    width: 1523px;
+    height: 120px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #FFF;
+    box-shadow: 0px 0px 14px 1px rgba(0, 0, 0, 0.12);
+
+}
+
+.fa-users{
+    border-left: 1px solid gray;
+    margin-left: 234px;
+    font-size: 36px;
+    margin-top: 19px;
+    padding-left: 50px;
+}
+
+.text_user{
+    margin-left: 380px;
+    margin-top: 38px;
+}
+
+p{
+    color: #000;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.numberUser{
+    color: #EF4136;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 5px;
+
+}
+
+.notpay{
+    border-left: 1px solid gray;
+    display: flex;
+    margin-top: -47px;
+    margin-left: 729px;
+}
+
+.fa-credit-card{
+    padding-left: 30px;
+    font-size: 36px;
+    padding-right: 9px;
+}
+
+.notP{
+    color: #000;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.notP2{
+    color: #EF4136;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 5px;
+    
+}
+
+.search{
+    position: absolute;
+    top: 7px;
+    left: 1385px;
+}
+
+.fa-magnifying-glass{
+    width: 61px;
+    height: 61px;
+    flex-shrink: 0;border-radius: 15px;
+    background: #F7F7F7;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
